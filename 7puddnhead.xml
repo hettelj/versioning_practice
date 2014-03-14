@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI SYSTEM "tei_all.dtd">
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
@@ -38,7 +38,6 @@
 	    <pubPlace>Unknown</pubPlace>
 	  <date>Unknown</date>
 	</publicationStmt>
-  </biblFull></sourceDesc>
 </fileDesc>
 <encodingDesc>
   <projectDesc>
