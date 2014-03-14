@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI SYSTEM "tei_all.dtd">
 <TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <teiHeader>
@@ -83,18 +83,7 @@ The Writings of Mark Twain Volume XVI Harper &amp; Brothers Publishers, New York
 </titlePage>
 <div type='preface' org="uniform" sample="complete" part="N">
 <head>PREFACE</head>
-<p>THE ungentle laws and customs touched upon in 
-this tale are historical, and the episodes which are 
-used to illustrate them are also historical. It is 
-not pretended that these laws and customs existed in 
-England in the sixth century; no, it is only pretended 
-that inasmuch as they existed in the English and other 
-civilizations of far later times, it is safe to consider that 
-it is no libel upon the sixth century to suppose them to 
-have been in practice in that day also. One is quite 
-justified in inferring that whatever one of these laws or 
-customs was lacking in that remote time, its place was 
-competently filled by a worse one. 
+<p>
 
 </p><p>The question as to whether there is such a thing as 
 divine right of kings is not settled in this book. It 
